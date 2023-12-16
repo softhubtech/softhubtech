@@ -2,7 +2,7 @@
 - 👀 I’m interested in application development
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on flutter and react native.
-- 📫 reach me by email via softhub.co.in@gmail.com
+- 📫 reach me by via email softhub.co.in@gmail.com
 
 <!---
 softhubtech/softhubtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
